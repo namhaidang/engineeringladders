@@ -1,0 +1,44 @@
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+
+  mermaid.initialize({
+    startOnLoad: false,
+    securityLevel: "loose",
+    theme: "default"
+  });
+
+  const renderMermaidBlocks = async () => {
+    const blocks = document.querySelectorAll("pre code.language-mermaid");
+
+    for (const block of blocks) {
+      const pre = block.closest("pre");
+      if (!pre) continue;
+
+      const wrapper = pre.parentElement;
+      const replacement = document.createElement("div");
+      replacement.className = "mermaid";
+      replacement.textContent = block.textContent || "";
+
+      const target =
+        wrapper && wrapper.className.includes("highlighter-rouge") ? wrapper : pre;
+
+      target.replaceWith(replacement);
+    }
+
+    await mermaid.run({ querySelector: ".mermaid" });
+  };
+
+  document.addEventListener("DOMContentLoaded", () => {
+    renderMermaidBlocks().catch((error) => {
+      console.error("Failed to render Mermaid diagrams.", error);
+    });
+  });
+</script>
+
+<style>
+  .mermaid {
+    margin: 1.5rem 0;
+    overflow-x: auto;
+    text-align: center;
+  }
+</style>
