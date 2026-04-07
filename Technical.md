@@ -23,6 +23,12 @@ Technical-track roles achieve impact primarily through individual technical cont
 | 9 | `P6` | Senior Principal | 15+ years related experience or equivalent | Master's or PhD |
 | 10 | `P7` | Distinguished or Fellow | 15+ years; typically known externally in the industry | Master's or PhD |
 
+# Progression Overview
+
+This draft summary visual is designed to show the shift in center of gravity across the ladder, not just the content of one level in isolation.
+
+![Technical track progression overview](assets/technical-track-progression.svg)
+
 # Levels
 
 ## P1 - Coordinator / Associate

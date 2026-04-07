@@ -22,6 +22,12 @@ Management-track roles achieve impact primarily through others. The ladder expan
 | 9 | `M5` | Director | 6+ years management; 12 to 15 years work experience | Bachelor's required; master's or PhD may be preferred |
 | 10 | `M6` | Senior Director | 10+ years management; 15 to 18 years work experience | Master's or PhD |
 
+# Progression Overview
+
+This draft summary visual is designed to show the shift in center of gravity across the ladder, not just the content of one level in isolation.
+
+![Management track progression overview](assets/management-track-progression.svg)
+
 # Levels
 
 ## M1 - Supervisor / Shift Manager

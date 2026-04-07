@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 835" role="img" aria-labelledby="title desc">
+  <title id="title">Management Track Progression Overview</title>
+  <desc id="desc">A summary visualization showing how the center of gravity shifts across the Management track and how emphasis changes by dimension from M1 through M6.</desc>
+  <style>
+    text {
+      font-family: "Segoe UI", Arial, sans-serif;
+      fill: #1f2937;
+    }
+    .title {
+      font-size: 28px;
+      font-weight: 700;
+    }
+    .subtitle {
+      font-size: 15px;
+      fill: #4b5563;
+    }
+    .section {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .label {
+      font-size: 14px;
+      fill: #374151;
+    }
+    .small {
+      font-size: 12px;
+      fill: #6b7280;
+    }
+    .axis {
+      stroke: #d1d5db;
+      stroke-width: 8;
+      stroke-linecap: round;
+    }
+    .marker {
+      fill: #c2410c;
+      stroke: #ffffff;
+      stroke-width: 2;
+    }
+    .panel {
+      fill: #fff7ed;
+      stroke: #fed7aa;
+      stroke-width: 1;
+      rx: 16;
+    }
+    .matrix-stroke {
+      stroke: #ffffff;
+      stroke-width: 2;
+    }
+  </style>
+
+  <rect x="20" y="20" width="1160" height="795" rx="20" fill="#ffffff" stroke="#e5e7eb" />
+
+  <text class="title" x="50" y="65">Management Track Progression Overview</text>
+  <text class="subtitle" x="50" y="92">The shift band shows how management scope moves across the ladder. The matrix shows relative emphasis, not a numeric score from the guide.</text>
+
+  <rect class="panel" x="40" y="120" width="1120" height="295" />
+  <text class="section" x="60" y="155">Shift In Center Of Gravity</text>
+
+  <text class="label" x="60" y="210">Supervision</text>
+  <text class="label" x="965" y="210">Organizational Leadership</text>
+  <line class="axis" x1="230" y1="205" x2="900" y2="205" />
+  <circle class="marker" cx="280" cy="205" r="14" />
+  <circle class="marker" cx="360" cy="205" r="14" />
+  <circle class="marker" cx="485" cy="205" r="14" />
+  <circle class="marker" cx="620" cy="205" r="14" />
+  <circle class="marker" cx="760" cy="205" r="14" />
+  <circle class="marker" cx="885" cy="205" r="14" />
+  <text class="small" x="280" y="237" text-anchor="middle">M1</text>
+  <text class="small" x="360" y="237" text-anchor="middle">M2</text>
+  <text class="small" x="485" y="237" text-anchor="middle">M3</text>
+  <text class="small" x="620" y="237" text-anchor="middle">M4</text>
+  <text class="small" x="760" y="237" text-anchor="middle">M5</text>
+  <text class="small" x="885" y="237" text-anchor="middle">M6</text>
+
+  <text class="label" x="60" y="285">Local Operations</text>
+  <text class="label" x="982" y="285">Functional Strategy</text>
+  <line class="axis" x1="230" y1="280" x2="900" y2="280" />
+  <circle class="marker" cx="270" cy="280" r="14" />
+  <circle class="marker" cx="350" cy="280" r="14" />
+  <circle class="marker" cx="480" cy="280" r="14" />
+  <circle class="marker" cx="620" cy="280" r="14" />
+  <circle class="marker" cx="770" cy="280" r="14" />
+  <circle class="marker" cx="890" cy="280" r="14" />
+  <text class="small" x="270" y="312" text-anchor="middle">M1</text>
+  <text class="small" x="350" y="312" text-anchor="middle">M2</text>
+  <text class="small" x="480" y="312" text-anchor="middle">M3</text>
+  <text class="small" x="620" y="312" text-anchor="middle">M4</text>
+  <text class="small" x="770" y="312" text-anchor="middle">M5</text>
+  <text class="small" x="890" y="312" text-anchor="middle">M6</text>
+
+  <text class="label" x="60" y="360">Coordination</text>
+  <text class="label" x="1000" y="360">Company Influence</text>
+  <line class="axis" x1="230" y1="355" x2="900" y2="355" />
+  <circle class="marker" cx="255" cy="355" r="14" />
+  <circle class="marker" cx="340" cy="355" r="14" />
+  <circle class="marker" cx="480" cy="355" r="14" />
+  <circle class="marker" cx="630" cy="355" r="14" />
+  <circle class="marker" cx="790" cy="355" r="14" />
+  <circle class="marker" cx="895" cy="355" r="14" />
+  <text class="small" x="255" y="387" text-anchor="middle">M1</text>
+  <text class="small" x="340" y="387" text-anchor="middle">M2</text>
+  <text class="small" x="480" y="387" text-anchor="middle">M3</text>
+  <text class="small" x="630" y="387" text-anchor="middle">M4</text>
+  <text class="small" x="790" y="387" text-anchor="middle">M5</text>
+  <text class="small" x="895" y="387" text-anchor="middle">M6</text>
+
+  <rect class="panel" x="40" y="435" width="1120" height="350" />
+  <text class="section" x="60" y="470">Relative Emphasis By Level</text>
+
+  <text class="small" x="880" y="470">Foundational</text>
+  <rect x="960" y="457" width="24" height="18" fill="#ffedd5" stroke="#ffffff" />
+  <rect x="988" y="457" width="24" height="18" fill="#fdba74" stroke="#ffffff" />
+  <rect x="1016" y="457" width="24" height="18" fill="#fb923c" stroke="#ffffff" />
+  <rect x="1044" y="457" width="24" height="18" fill="#ea580c" stroke="#ffffff" />
+  <rect x="1072" y="457" width="24" height="18" fill="#9a3412" stroke="#ffffff" />
+  <text class="small" x="1103" y="470">Defining</text>
+
+  <text class="label" x="330" y="515">M1</text>
+  <text class="label" x="410" y="515">M2</text>
+  <text class="label" x="490" y="515">M3</text>
+  <text class="label" x="570" y="515">M4</text>
+  <text class="label" x="650" y="515">M5</text>
+  <text class="label" x="730" y="515">M6</text>
+
+  <text class="label" x="60" y="560">Knowledge &amp; Application</text>
+  <text class="label" x="60" y="610">Leadership &amp; Influence</text>
+  <text class="label" x="60" y="660">Impact &amp; Accountability</text>
+  <text class="label" x="60" y="710">Problem Solving &amp; Judgement</text>
+  <text class="label" x="60" y="760">Collaboration &amp; Interaction</text>
+
+  <!-- KA -->
+  <rect class="matrix-stroke" x="320" y="540" width="64" height="32" fill="#ffedd5" />
+  <rect class="matrix-stroke" x="400" y="540" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="480" y="540" width="64" height="32" fill="#fb923c" />
+  <rect class="matrix-stroke" x="560" y="540" width="64" height="32" fill="#ea580c" />
+  <rect class="matrix-stroke" x="640" y="540" width="64" height="32" fill="#9a3412" />
+  <rect class="matrix-stroke" x="720" y="540" width="64" height="32" fill="#9a3412" />
+
+  <!-- LI -->
+  <rect class="matrix-stroke" x="320" y="590" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="400" y="590" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="480" y="590" width="64" height="32" fill="#fb923c" />
+  <rect class="matrix-stroke" x="560" y="590" width="64" height="32" fill="#ea580c" />
+  <rect class="matrix-stroke" x="640" y="590" width="64" height="32" fill="#9a3412" />
+  <rect class="matrix-stroke" x="720" y="590" width="64" height="32" fill="#9a3412" />
+
+  <!-- IA -->
+  <rect class="matrix-stroke" x="320" y="640" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="400" y="640" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="480" y="640" width="64" height="32" fill="#fb923c" />
+  <rect class="matrix-stroke" x="560" y="640" width="64" height="32" fill="#ea580c" />
+  <rect class="matrix-stroke" x="640" y="640" width="64" height="32" fill="#9a3412" />
+  <rect class="matrix-stroke" x="720" y="640" width="64" height="32" fill="#9a3412" />
+
+  <!-- PS -->
+  <rect class="matrix-stroke" x="320" y="690" width="64" height="32" fill="#ffedd5" />
+  <rect class="matrix-stroke" x="400" y="690" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="480" y="690" width="64" height="32" fill="#fb923c" />
+  <rect class="matrix-stroke" x="560" y="690" width="64" height="32" fill="#ea580c" />
+  <rect class="matrix-stroke" x="640" y="690" width="64" height="32" fill="#9a3412" />
+  <rect class="matrix-stroke" x="720" y="690" width="64" height="32" fill="#9a3412" />
+
+  <!-- CI -->
+  <rect class="matrix-stroke" x="320" y="740" width="64" height="32" fill="#ffedd5" />
+  <rect class="matrix-stroke" x="400" y="740" width="64" height="32" fill="#fdba74" />
+  <rect class="matrix-stroke" x="480" y="740" width="64" height="32" fill="#fb923c" />
+  <rect class="matrix-stroke" x="560" y="740" width="64" height="32" fill="#ea580c" />
+  <rect class="matrix-stroke" x="640" y="740" width="64" height="32" fill="#9a3412" />
+  <rect class="matrix-stroke" x="720" y="740" width="64" height="32" fill="#9a3412" />
+</svg>
