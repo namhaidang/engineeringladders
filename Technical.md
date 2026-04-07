@@ -182,5 +182,5 @@ flowchart TD
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Management Track**](Management.md)
+* [**Introduction**](README.html)
+* [**Management Track**](Management.html)

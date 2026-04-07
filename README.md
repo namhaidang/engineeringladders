@@ -2,8 +2,8 @@
 
 This repository presents an engineering performance management framework as two career tracks:
 
-* [**Technical Track**](Technical.md): individual contributor growth across `P1` through `P7`
-* [**Management Track**](Management.md): people-leadership growth across `M1` through `M6`
+* [**Technical Track**](Technical.html): individual contributor growth across `P1` through `P7`
+* [**Management Track**](Management.html): people-leadership growth across `M1` through `M6`
 
 The Technical track follows a Professional Track model and uses `P` level identifiers. The Management track follows a Management Track model and uses `M` level identifiers.
 
@@ -39,13 +39,13 @@ Both tracks use the same five dimensions so that every level can be reviewed in 
 
 | Organization Level | Technical Track | Management Track |
 | :---: | :---: | :---: |
-| 4 | [P1](Technical.md#p1---coordinator--associate) | |
-| 5 | [P2](Technical.md#p2---analyst--engineer--specialist) | [M1](Management.md#m1---supervisor--shift-manager) |
-| 6 | [P3](Technical.md#p3---senior) | [M2](Management.md#m2---supervisor--lead) |
-| 7 | [P4](Technical.md#p4---staff) | [M3](Management.md#m3---manager) |
-| 8 | [P5](Technical.md#p5---principal) | [M4](Management.md#m4---senior-manager--associate-director) |
-| 9 | [P6](Technical.md#p6---senior-principal) | [M5](Management.md#m5---director) |
-| 10 | [P7](Technical.md#p7---distinguished--fellow) | [M6](Management.md#m6---senior-director) |
+| 4 | [P1](Technical.html#p1---coordinator--associate) | |
+| 5 | [P2](Technical.html#p2---analyst--engineer--specialist) | [M1](Management.html#m1---supervisor--shift-manager) |
+| 6 | [P3](Technical.html#p3---senior) | [M2](Management.html#m2---supervisor--lead) |
+| 7 | [P4](Technical.html#p4---staff) | [M3](Management.html#m3---manager) |
+| 8 | [P5](Technical.html#p5---principal) | [M4](Management.html#m4---senior-manager--associate-director) |
+| 9 | [P6](Technical.html#p6---senior-principal) | [M5](Management.html#m5---director) |
+| 10 | [P7](Technical.html#p7---distinguished--fellow) | [M6](Management.html#m6---senior-director) |
 
 # Track Summaries
 
@@ -57,7 +57,7 @@ The Technical track is built for people whose primary impact comes through their
 * from local delivery to functional and company-wide impact
 * from solving known problems to setting technical direction and shaping strategy
 
-Read the full ladder in [Technical.md](Technical.md).
+Read the full ladder on the [Technical track](Technical.html).
 
 ## Management Track
 
@@ -67,7 +67,7 @@ The Management track is built for people whose primary impact comes through othe
 * from local operations to longer-range functional strategy
 * from day-to-day coordination to company-shaping decisions
 
-Read the full ladder in [Management.md](Management.md).
+Read the full ladder on the [Management track](Management.html).
 
 # Progression Notes
 

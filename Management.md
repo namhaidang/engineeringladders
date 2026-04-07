@@ -158,5 +158,5 @@ flowchart TD
 
 # Other Pages
 
-* [**Introduction**](README.md)
-* [**Technical Track**](Technical.md)
+* [**Introduction**](README.html)
+* [**Technical Track**](Technical.html)
