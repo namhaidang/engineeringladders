@@ -1,6 +1,6 @@
 # Management Track
 
-The Management track is the Symbotics people-leadership ladder. It keeps the official `M1` through `M6` identifiers from the internal Management Track leveling guide.
+The Management track is the people-leadership ladder. It uses `M1` through `M6` level identifiers aligned with a Management Track leveling model.
 
 Management-track roles achieve impact primarily through others. The ladder expands from direct supervision and local execution into broader organizational leadership, longer planning horizons, and company-level influence.
 

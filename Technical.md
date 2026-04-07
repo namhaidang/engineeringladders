@@ -1,6 +1,6 @@
 # Technical Track
 
-The Technical track is the Symbotics individual contributor ladder. It is sourced from the internal Professional Track leveling guide and intentionally keeps the official `P1` through `P7` identifiers.
+The Technical track is the individual contributor ladder. It follows a Professional Track leveling model and uses `P1` through `P7` level identifiers.
 
 Technical-track roles achieve impact primarily through individual technical contribution, though the higher levels also shape strategy, guide other engineers, and influence business direction.
 

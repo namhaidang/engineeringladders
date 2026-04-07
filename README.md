@@ -1,11 +1,11 @@
-# Symbotics Technical and Management Ladders
+# Technical and Management Ladders
 
-This repository presents the current Symbotics engineering performance management framework as two career tracks:
+This repository presents an engineering performance management framework as two career tracks:
 
 * [**Technical Track**](Technical.md): individual contributor growth across `P1` through `P7`
 * [**Management Track**](Management.md): people-leadership growth across `M1` through `M6`
 
-The Technical track is sourced from the internal Professional Track leveling guide and keeps the official `P` level identifiers. The Management track is sourced from the internal Management Track leveling guide and keeps the official `M` level identifiers.
+The Technical track follows a Professional Track model and uses `P` level identifiers. The Management track follows a Management Track model and uses `M` level identifiers.
 
 The framework is meant to support career conversations, performance discussions, and promotion readiness. It should be used as guidance, not as a checklist.
 
